@@ -1,0 +1,36 @@
+Player Name :rajat
+Played Date:Tue May 30 17:48:43 2023
+Score:30
+___________________________________________________
+Player Name :lakshya arora 
+Played Date:Tue May 30 17:50:12 2023
+Score:69
+___________________________________________________
+Player Name :piyush
+Played Date:Tue May 30 17:52:48 2023
+Score:40
+___________________________________________________
+Player Name :shivanjali
+Played Date:Tue May 30 19:43:15 2023
+Score:25
+___________________________________________________
+Player Name :adrija
+Played Date:Tue May 30 19:59:13 2023
+Score:35
+___________________________________________________
+Player Name :laksh
+Played Date:Wed May 31 21:03:47 2023
+Score:4
+___________________________________________________
+Player Name :laksh
+Played Date:Wed May 31 21:09:45 2023
+Score:3
+___________________________________________________
+Player Name :laksh
+Played Date:Wed May 31 22:04:06 2023
+Score:4
+___________________________________________________
+Player Name :laksh
+Played Date:Wed May 31 22:37:15 2023
+Score:4
+___________________________________________________
